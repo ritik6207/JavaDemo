@@ -4,4 +4,8 @@ class project
 	{
 		//some code
 	}
+	public void maw()
+	{
+		//some code
+	}
 }
